@@ -66,7 +66,7 @@ const projectData = translateFunction => {
             },
             {
                 isStage: false,
-                name: "CraftCat",
+                name: 'CraftCat',
                 variables: {},
                 lists: {},
                 broadcasts: {},
